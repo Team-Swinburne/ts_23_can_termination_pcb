@@ -1,4 +1,4 @@
-# ts_23_altium-project (Rename to your project title!)
+# ts_23_can_termiantion_pcb
 Template repository for Team Swinburne Altium based projects (Change after creating repository!)
 
 Hit the use this as template, to use this as a template!
